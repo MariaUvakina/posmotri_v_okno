@@ -106,7 +106,7 @@ ol {
   font-size: inherit;
 }
 
-.search-form__textfield:placeholder {
+.search-form__textfield::placeholder {
   color: rgba(255, 255, 255, .7);
 }
 
