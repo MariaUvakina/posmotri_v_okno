@@ -50,11 +50,6 @@ ol {
   white-space: nowrap;
 }
 
-.content {
-  display: flex;
-  gap: 30px;
-}
-
 .result {
   display: flex;
   flex-direction: column;
